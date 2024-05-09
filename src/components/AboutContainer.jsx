@@ -4,8 +4,8 @@ const AboutContainer = () => {
             <h2>Sobre</h2>
             <p>
                 Graduado em Análise e Desenvolvimento de Sistemas. 
-                Atualmente possuo 2 anos de experiência na área de tecnologia (sendo 1 ano como estagiario),
-                atuando na parte de desenvolvimento e análise de sistemas web, com foco principal no backend.
+                Atualmente possuo 3 anos de experiência na área de tecnologia,
+                atuando na parte de desenvolvimento web, com foco principal no backend.
             </p>
             <p>
                 Sempre estou disposto a assumir novos desafios e aprender novas tecnologias para me manter atualizado

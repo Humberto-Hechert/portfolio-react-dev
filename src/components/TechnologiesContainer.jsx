@@ -10,12 +10,12 @@ import {
 import '../styles/components/technologiescontainer.sass'
 
 const technologies = [
-    { id: "js", name: "JavaScript", icon: <DiJsBadge />, text: "Experiência profissional de 1 ano com a linguagem e também com TypeScript" },
-    { id: "node", name: "Node.js", icon: <DiNodejsSmall/>, text: "Experiência profissional de 1 ano, utilizando os principais frameworks e pacotes (express, nest, sequelize, Next.js " },
+    { id: "js", name: "JavaScript", icon: <DiJsBadge />, text: "Experiência profissional de 3 anos com a linguagem e também com TypeScript" },
+    { id: "node", name: "Node.js", icon: <DiNodejsSmall/>, text: "Experiência profissional de 3 anos, utilizando os principais frameworks e pacotes (express, nest, sequelize, Next.js " },
     { id: "mysql", name: "MySQL", icon: <DiMysql />, text: "Experiência profissional de 3 anos com banco de dados relacionais "},
     { id: "react", name: "React", icon: <DiReact />, text: "Experiência de 1 ano com o framework, utilizando-o em projetos pessoais" },
-    { id: "mongodb", name: "Mongodb", icon: <DiMongodb />, text: "Experiência profissional de 1 ano com banco de dados não relacional" },
-    { id: "docker", name: "Docker", icon: <DiDocker />, text: "Experiência de 1 ano com docker e conteinirização"},
+    { id: "mongodb", name: "Mongodb", icon: <DiMongodb />, text: "Experiência profissional de 3 anos com banco de dados não relacional" },
+    { id: "docker", name: "Docker", icon: <DiDocker />, text: "Experiência de 2 anos com docker e conteinirização"},
 ]
 
 const TechnologiesContainer = () => {
